@@ -1,0 +1,35 @@
+.body{
+    background-color: rgb(30, 57, 3);
+    color: beige;
+    font-size:x-large;
+}
+.h1{
+    font: optional;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    flex-flow: wrap;
+    font-size:xx-large;
+
+}
+.watermark{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 6em;
+    opacity: 0.5;
+    color: #888;
+    pointer-events: none;
+    height: 100%;
+    width: 80%;
+    float: right;
+    margin-right: 40%;
+
+}
+markee{
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: unset;
+    color:saddlebrown;
+    background-color:darkgrey;
+}
